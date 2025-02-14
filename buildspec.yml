@@ -1,0 +1,26 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.10
+    commands:
+      - pip install spacy awscli
+      
+  pre_build:  
+    commands:
+      - aws configure set aws_role_arn $AWS_ROLE_ARN
+    
+  build:
+    commands:
+      - aws s3 cp s3://ddarwin/oak.txt oanc/oak.txt
+      - python -m spacy download en_core_web_sm
+      - python oanc/king.py > dove.txt
+
+  post_build:
+    commands:
+      - aws s3 cp dove.txt s3://ddarwin/dove.txt
+
+cache:
+  paths:
+    - /root/.pyenv/versions/3.10.13/lib/python3.10/site-packages/
