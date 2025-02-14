@@ -1,7 +1,7 @@
 # How To Setup🏆
-3. ```git clone https://github.com/brageon/rest.git```
+1. ```git clone https://github.com/brageon/rest.git```
 2. ```python3 -m pip install spacy, pickle```
-4. ```python3 oanc/king.py | sort -k2 -nr```
+3. ```python3 oanc/king.py | sort -k2 -nr```
 
 # Sales Agency💰
 1. Rest: NDHcHC like in ```17+9-16=10```
