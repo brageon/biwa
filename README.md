@@ -30,7 +30,7 @@
 11. 8w7 - 9w1 = 10NN - 3CH = 7HH. 
 12. Chat: 37HD 13NH 13DH 7HN = Aw9.
 13. ```HN8+x5=CH3```: ```Judge+Resume=Resume-Feature```
-15. Resume: ```DNCD=C+N=29/8+3``` i.e. 7 phone calls.
+15. Resume: ```DNCD=29/5+2``` i.e. 4 phone calls.
     * King: Word class clusters, i.e. ZSATGJ.
     * Amino: N-group, R-group, CO2 acid group.
     * WAIS: ZS=GAI-CPI, TG=QRI-NVI, J=AWM.
