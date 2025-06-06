@@ -23,14 +23,13 @@
    * C: Move/rock. H: Move/gap.
    * D/C soft eyes. N/H dry eyes.
    * D/N end. C/H start.
-8. Rest: NDHcHC like in ```17+9-16=10```
-10. Impact: ```NHc=DC``` while ```HDh=DH```
+10. 1,6x Impact: ```NH5c9=DC14``` while ```HD2h1=DH3~DN5```
 8. Resume % density: 30DH 23HD 17HH = 56HN 30DH
 9. Recruiter % density: 25HN 25NH 25CC 25NC = 50HC 
 10. 7w6 + 9w8 = 16/2w14/2 = 8w7.
 11. 8w7 - 9w1 = 10NN - 3CH = 7HH. 
 12. Chat: 37HD 13NH 13DH 7HN = Aw9.
-13. Impact: ```Judge+Resume=Resume+Feature``` e.g. ```HN8+x5=CH3```
+13. ```HN8+x5=CH3```: ```Judge+Resume=Resume-Feature```
 15. Resume: ```DNCD=C+N=29/8+3``` i.e. 7 phone calls.
     * King: Word class clusters, i.e. ZSATGJ.
     * Amino: N-group, R-group, CO2 acid group.
