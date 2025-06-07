@@ -1,9 +1,9 @@
-# How To Setup🏆
+# How To Setup
 1. ```git clone https://github.com/brageon/rest.git```
 2. ```python3 -m pip install spacy, pickle```
 3. ```python3 oanc/king.py | sort -k2 -nr```
 
-# Sales Agency💰
+# Sales Agency
 1. Identify top two runes from uclassify.
    * DN_Sowelo, ND(Naudiz, Jera), DC_Tiwas, CD_Pertho,
    * DD(Ihwaz, Uruz), CH(Dagaz, Berkana), HC_Ansuz,
