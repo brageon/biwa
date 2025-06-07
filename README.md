@@ -27,14 +27,14 @@
 9. Recruiter % density: 25HN 25NH 25CC 25NC = 50HC 
 10. Resume: 7w6+9w8 = 16/2w14/2 = 8w7.
 11. 8w7-9w1 = NN10-CH3 = HH7 ```17/2``` 8w9.
-12. Chat: 37HD 13NH 13DH 7HN = Aw9.
+12. Chat: 37HD 13NH 13DH = Aw9. ```HN4c9CD13```
 13. ```HN8+x5=CH3```: ```Resume-Judge=Resume+Feature```
 15. Resume: ```DNCD=29/5+2``` i.e. 4/9 phone calls.
-16. README: 22DN 14DD 14CC = 37/9+6 calls. 
     * King: Word class clusters, i.e. ZSATGJ.
     * Amino: N-group, R-group, CO2 acid group.
     * WAIS: ZS=GAI-CPI, TG=QRI-NVI, J=AWM.
     * Bricks: RNA virus selecting amino groups.
+15. README: 22DN 14DD 14CC = 37/9+6 good. 
 14. Send dropbox with reports *after* the call.
 
 # Notes
