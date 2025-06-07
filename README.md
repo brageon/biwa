@@ -11,13 +11,12 @@
    * NN(Gebo, Wunjo), NH(Ingwaz, Kenaz), HN_Mannaz,
    * HD(Laguz, Isaz), DH_Algiz, HH_Thurisaz.
 1. Rank subtraction to M-zones (poker):
-   * 8–14 general, 1–7 specific,
-   * -1–5 conflict, -6–10 accuse,
-   * -11–15 needy.
+   * 8–14 big, 1–7 small, -1–5 conflict,
+   * -6–10 accuse, -11–15 needy.
 4. Enneagram sum: 9,5,4,7,12,13,6,8,15,10.
-   * CC: 4wA. CD: Aw2. CH: Aw1.
-   * DD: Aw4. DN: 6w5. HD: Aw8.
-   * HH: 2w3. HN: Aw6. NC: Aw9. NN: Aw7.
+   * CC: 4wA. CD: Aw2. CH: Aw1. DD: Aw4.
+   * DN: 6w5. HD: Aw8. HH: 2w3. 
+   * HN: Aw6. NC: Aw9. NN: Aw7.
 5. Age span: D10, C20, N30, H50.
    * D: Stop/rock. N: Stop/gap.
    * C: Move/rock. H: Move/gap.
