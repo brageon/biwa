@@ -6,7 +6,7 @@
 4. Don't think too much. At the interview I might be a business "HD" with clear goals.
 5. At work and/or poker, I'm more focused, sorted. 
 
-Now it's DD (H-last), but if 7,10 then CD. Silly inviting trust beside EXTP with vulnerable F.
+Now it's DD (H-last), but if 7,10 then CD. Silly inviting trust beside 7 or 8.
 ```
 1 Of course I don't tell my colleagues straight away as it would be overwhelming.
 2 Instead it will be step by step to give 4 skills instead of 16. 
