@@ -25,10 +25,10 @@
 10. 1,6x Impact: ```NH5c9=DC14``` while ```HD2h1=DH3~DN5```
 8. Resume % density: 30DH 23HD 17HH = 56HN 30DH
 9. Recruiter % density: 25HN 25NH 25CC 25NC = 50HC 
-10. 7w6 + 9w8 = 16/2w14/2 = 8w7.
-11. 8w7 - 9w1 = 10NN - 3CH = 7HH. 
+10. Resume: 7w6+9w8 = 16/2w14/2 = 8w7.
+11. 8w7-9w1 = NN10-CH3 = HH7 ```17/2``` 8w9.
 12. Chat: 37HD 13NH 13DH 7HN = Aw9.
-13. ```HN8+x5=CH3```: ```Judge+Resume=Resume-Feature```
+13. ```HN8+x5=CH3```: ```Resume-Judge=Resume+Feature```
 15. Resume: ```DNCD=29/5+2``` i.e. 4 phone calls.
     * King: Word class clusters, i.e. ZSATGJ.
     * Amino: N-group, R-group, CO2 acid group.
