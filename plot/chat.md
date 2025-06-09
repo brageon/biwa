@@ -1,4 +1,11 @@
-<h1 align="center">Reframing Concept</h1>
+# Get Lucky In Life:
+
+Rune(Month+Hour)=Tritype. Executive(summary, synopsis, logline, outline). Tritype-Fitness=Rank.
+* Me: 2w3+5w6=7/2w9/2=4w5. Best of three alternatives.
+* Executive synopsis with rune subtraction from 16 labels.
+* Tritype to one single rune. Kenaz - Ehwaz (10 labels). 
+
+# Reframing Concept
 
 1. As long as it's not 3-4 pm on Tuesday, it works. # 12 after 5 in noise.
 2. When on Tuesday did you have in mind. # 13 after 12 in signal. 
@@ -35,4 +42,3 @@ Now it's DD (H-last), but if 7,10 then CD. Silly inviting trust beside 7 or 8.
 22 Colleagues like me but I am indifferent to them.
 23 People think I'm introvert because of "projection" as I already know they have nothing valuable
 ```
-How to be lucky in life: Rune(Month+Hour) → Tritype+Executive(summary, synopsis, logline, outline) → Fitness-Tritype=Rank.
