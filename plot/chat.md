@@ -35,3 +35,4 @@ Now it's DD (H-last), but if 7,10 then CD. Silly inviting trust beside 7 or 8.
 22 Colleagues like me but I am indifferent to them.
 23 People think I'm introvert because of "projection" as I already know they have nothing valuable
 ```
+How to be lucky in life: Rune(Month+Hour) → Tritype+Executive(summary, synopsis, logline, outline) → Fitness-Tritype=Rank.
