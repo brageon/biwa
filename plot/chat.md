@@ -1,16 +1,17 @@
-# Get Lucky In Life:
+# Lucky Routines:
 
-Rune(Month+Hour)=Tritype. Executive(summary, synopsis, logline, outline). Tritype-Fitness=Rank.
-* Me: 2w3+5w6=7/2w9/2=4w5. Best of three alternatives.
-* Executive synopsis with rune subtraction from 16 labels.
-* Tritype to one single rune. Kenaz - Ehwaz (10 labels). 
+1. POV: Rune(Month+Hour)=Tritype - Executive(summary, outline).
+2. Me: 2w3+5w6=7/2w9/2=4w5. Best of three alternatives.
+3. Executive synopsis with rune subtraction from 16 labels.
+4. Tritype to one single rune. Kenaz - Ehwaz (10 labels).
+5. Benefactor: Gebo 8w7 [NN] is helped by 359 logline. 
 
 # Reframing Concept
 
 1. As long as it's not 3-4 pm on Tuesday, it works. # 12 after 5 in noise.
 2. When on Tuesday did you have in mind. # 13 after 12 in signal. 
 3. **Did you know that vultology is used to see temperament?** 
-4. Don't think too much. At the interview I might be a business "HD" with clear goals.
+4. Don't think too much. At the interview I might be "HD" with clear goals.
 5. At work and/or poker, I'm more focused, sorted. 
 
 Now it's DD (H-last), but if 7,10 then CD. Silly inviting trust beside 7 or 8.
