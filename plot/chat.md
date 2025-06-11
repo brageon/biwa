@@ -1,4 +1,4 @@
-# Lucky Routines:
+# Lucky Routines
 
 1. POV: Rune(Month+Hour)=Tritype - Executive(summary, outline).
 2. Me: 2w3+5w6=7/2w9/2=4w5. Best of three alternatives.
