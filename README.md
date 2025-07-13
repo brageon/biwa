@@ -20,7 +20,7 @@ python3 oanc/king.py | sort -k2 -nr
 1. Rank subtraction to M-zones (poker):
    * 8–14 big, 1–7 small, -1–5 conflict,
    * -6–10 accuse, -11–15 needy.
-3. Latour's ANT theory through axiomatic springs:
+3. Latour's ANT theory through springs:
    * Problem: Scene or text. Plastic: asynch complex.
    * Passage: RuneMaster. Stiff: synch simple.
    * Inscription: Tonal center. Elastic: asynch simple.
