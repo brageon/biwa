@@ -15,19 +15,27 @@ python3 oanc/king.py | sort -k2 -nr
 1. Identify top two runes from uclassify.
    * 1(Thurs, Algiz), 2(Isa, Laguz), 3(Jera, Naudiz),
    * 4(Kenaz, Inguz), 5(Othala, Fehu), 6(Raido, Uruz),
-   * 7(Ehwaz, Hagalaz), 8(Ansus, Ihwaz), 9(Perto, Man),
-   * 10(Gebo, Wunjo), 11(Dagaz, Berkano), 12(Sun, Tyr).
+   * 7(Ehwaz, Hagal), 8(Ansus, Ihwaz), 9(Perto, Man),
+   * 10(Gebo, Wunjo), 11(Dagaz, Birch), 12(Sun, Tyr).
 1. Rank subtraction to M-zones (poker):
    * 8–14 big, 1–7 small, -1–5 conflict,
    * -6–10 accuse, -11–15 needy.
+3. Latour's ANT taxonomy:
+   * Problem: Scene or text. Asynch Complex.
+   * Passage: RuneMaster. Synch Simple.
+   * Inscription: Tonal center. Asynch Simple.
+   * Mobility: Phishing. Synch Complex.
+   * Calculation: Chunking. Asynch Complex.
+   * Blackbox: Software. Asynch Simple. 
+
   
 <h2>Worldview</h2>
 
 1. Algorithm: ```RuneMaster → Micrologus → Chain```
 2. Calculation: ```General – Pitch = Target```
-3. Four chords show [Tonal Centers](http://www.micrologus.com/tools/online_harmonic_analyzer).
+3. Four chords to [Tonal Centers](http://www.micrologus.com/tools/online_harmonic_analyzer).
 4. Absence of such is **asynchronous** word salad.
-5. Ab minor harmonic is c3c6. Social function: release hook. 
+5. Ab minor harmonic is c5c6. Social function: release hook. 
 
 <h2>Application</h2>
 
