@@ -17,14 +17,11 @@ python3 oanc/king.py | sort -k2 -nr
    * 4(Kenaz, Inguz), 5(Othala, Fehu), 6(Raido, Uruz),
    * 7(Ehwaz, Hagal), 8(Ansus, Ihwaz), 9(Perto, Man),
    * 10(Gebo, Wunjo), 11(Dagaz, Birch), 12(Sun, Tyr).
-1. Rank subtraction to M-zones (poker):
-   * 8–14 big, 1–7 small, -1–5 conflict,
-   * -6–10 accuse, -11–15 needy.
 3. Latour's ANT theory through springs:
    * Problem: Scene or text. Plastic: asynch complex.
    * Passage: RuneMaster. Stiff: synch simple.
    * Inscription: Tonal center. Elastic: asynch simple.
-   * Mobility: Phishing. Diffuse: synch complex.
+   * Mobility: Phishing. Diffusive: synch complex.
    * Calculation: Chunking. Plastic: asynch complex.
    * Blackbox: Software. Elastic: asynch simple. 
 
