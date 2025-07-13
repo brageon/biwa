@@ -1,6 +1,6 @@
 # BIWA: Beneficial Inference Worldview Abstraction
 
-BIWA is a framework for ethical and predictive decision modeling using **ontological nodes**. Built for researchers, system architects, and institutional designers.
+BIWA is a framework for ethical and predictive decision modeling using **ontological nodes**. Built for scientists, strategists, system architects, and institutional designers.
 
 <h2>Setup</h2>
 
