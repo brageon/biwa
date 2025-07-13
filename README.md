@@ -20,12 +20,12 @@
 1. Algorithm: ```RuneMaster → Micrologus → Chain```
 2. Calculation: ```General – Pitch = Target```
 3. Four chords from ```person + workplace``` show [Tonal Centers](http://www.micrologus.com/tools/online_harmonic_analyzer).
-4. Absence of such is asynchronous word salad.
+4. Absence of such is **asynchronous** word salad.
 5. Ab minor harmonic is c3c6. Social function: release hook. 
 
 <h2>Application</h2>
 
-"Sustain" because of C+G vibes. It knows the context better than Perplexity AI who classified it as "bait".
+"Sustain" because of C, G vibes. It knows better than Perplexity who classified it as "bait".
 ```
 BIWA has scientific merit because it predicts better than statistics.
 When asked "will I be hired after the internship", BIWA answers "Yes,
