@@ -1,8 +1,10 @@
 <h2>Setup</h2>
 
-1. ```git clone https://github.com/brageon/rest.git```
-2. ```python3 -m pip install spacy, pickle```
-3. ```python3 oanc/king.py | sort -k2 -nr```
+```
+git clone https://github.com/brageon/rest.git
+python3 -m pip install spacy, pickle
+python3 oanc/king.py | sort -k2 -nr
+```
 
 <h2>Impact</h2>
 
