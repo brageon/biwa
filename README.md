@@ -25,7 +25,7 @@
 
 <h2>Application</h2>
 
-"Sustain" because of C, G vibes. It knows better than Perplexity who classified it as "bait".
+"Sustain" because of C, G vibes. It knows better than Perplexity who label it as "bait".
 ```
 BIWA has scientific merit because it predicts better than statistics.
 When asked "will I be hired after the internship", BIWA answers "Yes,
