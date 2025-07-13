@@ -33,7 +33,7 @@ python3 oanc/king.py | sort -k2 -nr
 
 1. Algorithm: ```RuneMaster → Micrologus → Chain```
 2. Calculation: ```General – Pitch = Target```
-3. Four chords to [Tonal Centers](http://www.micrologus.com/tools/online_harmonic_analyzer).
+3. Four chords show [Tonal Centers](http://www.micrologus.com/tools/online_harmonic_analyzer).
 4. Absence of such is **asynchronous** word salad.
 5. Ab minor harmonic is c5c6. Social function: release hook. 
 
