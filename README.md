@@ -46,13 +46,6 @@ This gives F+G+Ab mh, as tonal centers, which is satisfactory for both parties."
 No statistics would answer that question at all.
 What field has "peer reviewers" for this?
 ```
-<h2>Abstract</h2>
-
-1. Social Epistemology Journal. 
-2. King: Word class clusters, i.e. ZSATGJ.
-3. Amino: N-group, R-group, CO2 acid group.
-4. WAIS: ZS=GAI-CPI, TG=QRI-NVI, J=AWM.
-5. Bricks: RNA virus selecting amino groups.
 
 <h2>Notes</h2>
 
