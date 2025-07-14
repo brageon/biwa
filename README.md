@@ -10,7 +10,7 @@ python3 -m pip install spacy, pickle
 python3 oanc/king.py | sort -k2 -nr
 ```
 
-<h2>Impact</h2>
+<h2>Theory</h2>
 
 Identify top two runes from uclassify.
    * 1(Thurs, Algiz), 2(Isa, Laguz), 3(Jera, Naudiz),
@@ -24,20 +24,20 @@ Latour's ANT theory through springs:
    3. Inscription: Tonal center. Elastic: asynch simple.
    4. Mobility: Phishing. Diffusive: synch complex.
    5. Calculation: Chunking. Plastic: asynch complex.
-   6. Blackbox: Software. Elastic: asynch simple. 
+   6. Blackbox: Software. Elastic: asynch simple.
 
-  
-<h2>Worldview</h2>
+Phishing from tonal folding spiral:
+   * F: Edim7 Gm11 A#add9 Cadd9. Tor, Tyr, Ken, Ox, Ansuz. Bait.
+   * C: Dm9 G13 FM7 C6/9 Gadd9. Isa, Dag, Fehu, Ehwaz. Priming.
+   * G: Am9 C CM9 D13 F#dim7. Perto, Hagal, Oth, Man, Sun. Stay.
+   * A: Am6 A G#dim. Wunjo, Jera, Gebo. Reel, *elastic*.
+   * E: EM6 C#m11 Badd9 EM7. Birch, Lake, Elk, Inguz. Hook.
+   * Ab: Baug G#M7 C#M7. Raido, Ihwaz, Naudiz. Release. 
 
-1. Algorithm: ```RuneMaster → Micrologus → Chain```
-2. Calculation: ```General – Pitch = Target```
-3. Four chords show [Tonal Centers](http://www.micrologus.com/tools/online_harmonic_analyzer).
-4. Absence of such is **asynchronous** word salad.
-5. Ab minor harmonic is c5c6. Social function: release hook. 
 
 <h2>Application</h2>
 
-"Sustain" because of C, G vibes. It knows better than Perplexity who label it as "bait".
+"Sustain" due to C vibrations when seen by the R5 stabilizer. 
 ```
 BIWA has scientific merit because it predicts better than statistics.
 When asked "will I be hired after the internship", BIWA answers "Yes,
