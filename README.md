@@ -12,18 +12,19 @@ python3 oanc/king.py | sort -k2 -nr
 
 <h2>Impact</h2>
 
-1. Identify top two runes from uclassify.
+Identify top two runes from uclassify.
    * 1(Thurs, Algiz), 2(Isa, Laguz), 3(Jera, Naudiz),
    * 4(Kenaz, Inguz), 5(Othala, Fehu), 6(Raido, Uruz),
    * 7(Ehwaz, Hagal), 8(Ansus, Ihwaz), 9(Perto, Man),
    * 10(Gebo, Wunjo), 11(Dagaz, Birch), 12(Sun, Tyr).
-3. Latour's ANT theory through springs:
-   * Problem: Scene or text. Plastic: asynch complex.
-   * Passage: RuneMaster. Stiff: synch simple.
-   * Inscription: Tonal center. Elastic: asynch simple.
-   * Mobility: Phishing. Diffusive: synch complex.
-   * Calculation: Chunking. Plastic: asynch complex.
-   * Blackbox: Software. Elastic: asynch simple. 
+
+Latour's ANT theory through springs:
+   1. Problem: Scene or text. Plastic: asynch complex.
+   2. Passage: RuneMaster. Stiff: synch simple.
+   3. Inscription: Tonal center. Elastic: asynch simple.
+   4. Mobility: Phishing. Diffusive: synch complex.
+   5. Calculation: Chunking. Plastic: asynch complex.
+   6. Blackbox: Software. Elastic: asynch simple. 
 
   
 <h2>Worldview</h2>
