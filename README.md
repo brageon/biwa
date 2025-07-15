@@ -37,7 +37,7 @@ Phishing from tonal folding spiral:
 
 <h2>Application</h2>
 
-"Sustain" due to C vibrations when seen by the R5 stabilizer. 
+"Priming-bait" due to C+F vibrations when seen by the R5 stabilizer Cadd9. 
 ```
 BIWA has scientific merit because it predicts better than statistics.
 When asked "will I be hired after the internship", BIWA answers "Yes,
