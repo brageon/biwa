@@ -29,13 +29,16 @@ Latour's ANT theory through springs:
 
 Phishing from tonal folding spiral:
 ```
-Bait, F: Edim7 Gm11 A#add9 Cadd9. Tor, Tyr, Kenaz, Ox.
+Bait, D/F: Edim7 Gm11 A#add9 Cadd9. Tor, Tyr, Kenaz, Ox.
 Priming, C: Dm9 G13 FM7 C6/9 Gadd9. Isa, Dag, Fehu, Ehwaz, Ansuz.
 Sustain, G: Am9 C CM9 D13 F#dim7. Perto, Hagal, Othala, Man, Sun.
 Reel, A: Am6 A G#dim. Wunjo, Jera, Gebo.
-Hook, E: EM6 C#m11 Badd9 EM7. Birch, Lake, Elk, Inguz.
+Hook, B/E: EM6 C#m11 Badd9 EM7. Birch, Lake, Elk, Inguz.
 Release, Ab: Baug G#M7 C#M7. Raido, Ihwaz, Naudiz.
-D: Gadd9 A, priming-reel. 
+
+CFG: G13 Gadd9 D13 Cadd9 Edim7 A#add9.
+GPCR cycle: priming, priming-sustain-bait, bait.
+Why: Signal transduction, sensor+relay.
 ```
 
 <h2>Application</h2>
