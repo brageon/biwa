@@ -1,4 +1,4 @@
-# BIWA: Beneficial Inference Worldview Abstraction
+# BIWA: Beneficial Impact Worldview Abstraction
 
 BIWA is a framework for ethical and predictive decision modeling using **ontological nodes**. Built for scientists, strategists, system architects, and institutional designers.
 
@@ -13,11 +13,12 @@ python3 oanc/king.py | sort -k2 -nr
 <h2>Theory</h2>
 
 Identify top two runes from uclassify.
-   * 1(Thurs, Algiz), 2(Isa, Laguz), 3(Jera, Naudiz),
-   * 4(Kenaz, Inguz), 5(Othala, Fehu), 6(Raido, Uruz),
-   * 7(Ehwaz, Hagal), 8(Ansus, Ihwaz), 9(Perto, Man),
-   * 10(Gebo, Wunjo), 11(Dagaz, Birch), 12(Sun, Tyr).
-
+```
+1(Thuriaz, Algiz), 2(Isa, Laguz), 3(Jera, Nauthiz),
+4(Kenaz, Inguz), 5(Othala, Fehu), 6(Raido, Uruz),
+7(Ehwaz, Hagal), 8(Ansus, Ihwaz), 9(Pertho, Mannaz),
+10(Gebo, Wunjo), 11(Dagaz, Birch), 12(Sun, Tiwaz).
+```
 Latour's ANT theory through springs:
    1. Problem: Scene or text. Plastic: asynch complex.
    2. Passage: RuneMaster. Stiff: synch simple.
@@ -27,13 +28,15 @@ Latour's ANT theory through springs:
    6. Blackbox: Software. Elastic: asynch simple.
 
 Phishing from tonal folding spiral:
-   * F: Edim7 Gm11 A#add9 Cadd9. Tor, Tyr, Ken, Ox, Ansuz. Bait.
-   * C: Dm9 G13 FM7 C6/9 Gadd9. Isa, Dag, Fehu, Ehwaz. Priming.
-   * G: Am9 C CM9 D13 F#dim7. Perto, Hagal, Oth, Man, Sun. Stay.
-   * A: Am6 A G#dim. Wunjo, Jera, Gebo. Reel, *elastic*.
-   * E: EM6 C#m11 Badd9 EM7. Birch, Lake, Elk, Inguz. Hook.
-   * Ab: Baug G#M7 C#M7. Raido, Ihwaz, Naudiz. Release. 
-
+```
+Bait, F: Edim7 Gm11 A#add9 Cadd9. Tor, Tyr, Kenaz, Ox.
+Priming, C: Dm9 G13 FM7 C6/9 Gadd9. Isa, Dag, Fehu, Ehwaz, Ansuz.
+Sustain, G: Am9 C CM9 D13 F#dim7. Perto, Hagal, Othala, Man, Sun.
+Reel, A: Am6 A G#dim. Wunjo, Jera, Gebo.
+Hook, E: EM6 C#m11 Badd9 EM7. Birch, Lake, Elk, Inguz.
+Release, Ab: Baug G#M7 C#M7. Raido, Ihwaz, Naudiz.
+D: Gadd9 A, priming-reel. 
+```
 
 <h2>Application</h2>
 
