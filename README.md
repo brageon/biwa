@@ -35,8 +35,7 @@ Sustain, G: Am9 C CM9 D13 F#dim7. Perto, Hagal, Othala, Man, Sun.
 Reel, A: Am6 A G#dim. Wunjo, Jera, Gebo.
 Hook, B/E: EM6 C#m11 Badd9 EM7. Birch, Lake, Elk, Inguz.
 Release, Ab: Baug G#M7 C#M7. Raido, Ihwaz, Naudiz.
-
-CFG: G13 Gadd9 D13 Cadd9 Edim7 A#add9.
+CFG [time]: G13 Gadd9 D13 Cadd9 Edim7 A#add9.
 GPCR cycle: priming, priming-sustain-bait, bait.
 Why: Signal transduction, sensor+relay.
 ```
