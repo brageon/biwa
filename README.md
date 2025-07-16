@@ -51,7 +51,3 @@ This gives F+G+Ab mh, as tonal centers, which is satisfactory for both parties."
 No statistics would answer that question at all.
 What field has "peer reviewers" for this?
 ```
-
-<h2>Notes</h2>
-
-* For questions or contributions, please open an issue or submit a pull request.
