@@ -5,7 +5,7 @@ BIWA is a framework for ethical and predictive decision modeling using **ontolog
 <h2>Setup</h2>
 
 ```
-git clone https://github.com/brageon/rest.git
+git clone https://github.com/brageon/biwa.git
 python3 -m pip install spacy, pickle
 python3 oanc/king.py | sort -k2 -nr
 ```
