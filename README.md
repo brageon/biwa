@@ -8,28 +8,23 @@ BIWA is a framework for ethical and predictive decision modeling using **ontolog
 git clone https://github.com/brageon/biwa.git
 python3 -m pip install spacy, pickle
 python3 oanc/king.py | sort -k2 -nr
+git clone https://github.com/brageon/score.git
+key from tensor.csv → python3 biwa.py 
 ```
 
 <h2>Theory</h2>
 
-Identify top two runes from uclassify.
+Identify top two runes from uclassify. Stiff: Synch simple.
 ```
 1(Thuriaz, Algiz), 2(Isa, Laguz), 3(Jera, Nauthiz),
 4(Kenaz, Inguz), 5(Othala, Fehu), 6(Raido, Uruz),
 7(Ehwaz, Hagal), 8(Ansus, Ihwaz), 9(Pertho, Mannaz),
 10(Gebo, Wunjo), 11(Dagaz, Birch), 12(Sun, Tiwaz).
 ```
-Latour's ANT theory through springs:
-   1. Problem: Scene or text. Plastic: asynch complex.
-   2. Passage: RuneMaster. Stiff: synch simple.
-   3. Inscription: Tonal center. Elastic: asynch simple.
-   4. Mobility: Phishing. Diffusive: synch complex.
-   5. Calculation: Chunking. Plastic: asynch complex.
-   6. Blackbox: Software. Elastic: asynch simple.
 
 <h2>Application</h2>
 
-"Priming-bait" due to C+F vibrations when seen by the R5 stabilizer Cadd9. 
+Tiwaz Ehwaz = 42%. Reverse: 68%. Elastic: Asynch simple.
 ```
 BIWA has scientific merit because it predicts better than statistics.
 When asked "will I be hired after the internship", BIWA answers "Yes,
@@ -38,3 +33,6 @@ This gives F+G+Ab mh, as tonal centers, which is satisfactory for both parties."
 No statistics would answer that question at all.
 What field has "peer reviewers" for this?
 ```
+Phishing. Diffusive: Synch complex. 
+
+**Expansion:** Functional language or tensor object. Plastic: Asynch complex. 
