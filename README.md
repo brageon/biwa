@@ -10,9 +10,17 @@ python3 -m pip install spacy, pickle
 python3 oanc/king.py | sort -k2 -nr
 ```
 
+**Register**:
+
+```
+ES = 7DH3, 8NH9, 9HN8, 10CN7, 11NC6, 12ND.
+TA = 6DN1, 5DC5, 4CH11, 3HD2, 2CD4, 1HC10. 
+```
+
+
 <h2>Application</h2>
 
-Elastic: Asynch simple. Phishing. Diffusive: Synch complex.
+Elastic: Asynch simple. Phishing. Diffusive: Synch complex. Below: Ehwaz-Tiwaz = CH. The response would be DC or NH.
 ```
 BIWA has scientific merit because it predicts better than statistics.
 When asked "will I be hired after the internship", BIWA answers "Yes,
@@ -22,4 +30,4 @@ No statistics would answer that question at all.
 What field has "peer reviewers" for this?
 ```
  
-**Scalability:** Ontology engine *or* tensor object. Plastic: Asynch complex. 
+**Scalability**: Ontology engine *or* tensor object. Plastic: Asynch complex. 
