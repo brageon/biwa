@@ -1,4 +1,4 @@
-# BIWA: Beneficial Impact
+# Beneficial Impact
 
 BIWA is a framework for ethical and predictive decision modeling using **ontological nodes**. Built for scientists, strategists, system architects, and institutional designers.
 
@@ -17,17 +17,19 @@ ES = 7DH3, 8NH9, 9HN8, 10CN7, 11NC6, 12ND.
 TA = 6DN1, 5DC5, 4CH11, 3HD2, 2CD4, 1HC10. 
 ```
 
-
 <h2>Application</h2>
 
-Elastic: Asynch simple. Phishing. Diffusive: Synch complex. Below: Ehwaz-Tiwaz = CH. The response would be DC or NH.
-```
-BIWA has scientific merit because it predicts better than statistics.
-When asked "will I be hired after the internship", BIWA answers "Yes,
-"because you have Edim7+D13 and the job, which is then a heat pump, has Cadd9+Baug.
-This gives F+G+Ab mh, as tonal centers, which is satisfactory for both parties."
-No statistics would answer that question at all.
-What field has "peer reviewers" for this?
-```
- 
-**Scalability**: Ontology engine *or* tensor object. Plastic: Asynch complex. 
+Elastic: Asynch simple. Phishing. Diffusive: Synch complex. 
+
+1. DC (Deluge): Just because that’s how I look doesn’t mean I have to react in the same way. Not all [country] people react to the same things similarly.
+2. CD (belittle): Say that to my step mother in Rome. She would spank you with pasta.
+3. HC (Martyr): Oh, now I have to carry the weight of representing a whole country? That’s heavy!
+4. HN (Gaslight): A? No, I’m clearly B… your eyes are just tired.
+5. HD (Greed): [country] looks? Then you owe me a glass of Barolo for noticing.
+6. HN (Rivalry): So what? You look like a lost tourist who can’t order espresso.
+7. NC (Blame): Don’t pin your stereotypes on me. That’s your filter, not mine.
+8. ND (Pity): Aw, that’s cute. You must not meet many people if you think that.
+9. NH (Sulking): Why does everyone always bring up my looks? Can’t they just see me?
+10. CH (Contempt): That’s such a basic observation. Try harder if you want to impress me.
+11. DN (Guilt): Now I feel bad… like I should start speaking with my hands to fit in.
+12. DH (Drama): Oh mamma mia! Am I in a Fellini movie now?
