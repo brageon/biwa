@@ -22,7 +22,7 @@ TA = 6DN1, 5DC5, 4CH11, 3HD2, 2CD4, 1HC10.
 Elastic: Asynch simple. Phishing. Diffusive: Synch complex. Plastic: Complex A.
 
 1. DC (Deluge): Just because that’s how I look doesn’t mean I have to react in the same way. Not all [country] people react to the same things similarly.
-2. CD (Belittle): Say that to my step mother in Rome. She would spank you with pasta.
+2. CD (Belittle): Say that to my step mother in Rome. She would spank you with pasta {harmless}. 
 3. HC (Martyr): Oh, now I have to carry the weight of representing a whole country? That’s heavy!
 4. CH (Contempt): That’s such a basic observation. Try harder if you want to impress me.
 5. ND (Pity): Aw, that’s cute. You must not meet many people if you think that.
