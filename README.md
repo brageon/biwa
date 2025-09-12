@@ -19,7 +19,7 @@ TA = 6DN1, 5DC5, 4CH11, 3HD2, 2CD4, 1HC10.
 
 <h2>Application</h2>
 
-JavaScript: [ Asynch simple. (CD, ND, NH) time, help. ] Java: [ Asynch complex. (DC, DN, HN) praise, time. ] Python: [ Synch complex. (HC, NC, DH) gift, touch. ] C++: [ Synch simple. (CH, CN, HD) touch, help. ] LCIM: What comes after the gift (e.g. HD) decides the intention (DH mirror). 
+JavaScript: [ Asynch simple. (CD, ND, NH) time, help. ] Java: [ Asynch complex. (DC, HN, DN) praise, time. ] Python: [ Synch complex. (HC, NC, DH) gift, touch. ] C++: [ Synch simple. (CH, CN, HD) touch, help. ] LCIM: What comes after the gift (e.g. HD) decides the intention (DH mirror). 
 
 1. DC (Deluge): Just because that’s how I look doesn’t mean I have to react in the same way. Not all [country] people react to the same things similarly.
 2. CD (Belittle): Say that to my step mother in Rome. She would spank you with pasta {harmless}. 
