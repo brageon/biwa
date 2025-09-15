@@ -10,13 +10,6 @@ python3 -m pip install spacy, pickle
 python3 oanc/king.py | sort -k2 -nr
 ```
 
-**Register**:
-
-```
-ES = 7DH3, 8NH9, 9HN8, 10CN7, 11NC6, 12ND.
-TA = 6DN1, 5DC5, 4CH11, 3HD2, 2CD4, 1HC10. 
-```
-
 <h2>Application</h2>
 
 JavaScript: [ Asynch simple. (CD, ND, NH) time, help. ] Java: [ Asynch complex. (DC, HN, DN) praise, time. ] Python: [ Synch complex. (HC, NC, DH) gift, touch. ] C++: [ Synch simple. (CH, CN, HD) touch, help. ] LCIM: What comes after the gift (e.g. HD) decides the intention (DH mirror). 
