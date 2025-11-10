@@ -14,6 +14,10 @@ python3 oanc/king.py | sort -k2 -nr
 
 JavaScript: [ Asynch simple. (CD, ND, NH) time, help. ] Java: [ Asynch complex. (DC, HN, DN) praise, time. ] Python: [ Synch complex. (HC, NC, DH) gift, touch. ] C++: [ Synch simple. (CH, CN, HD) touch, help. ] LCIM: What comes after the gift (e.g. HD) decides the intention (DH mirror). 
 
+Tough Love: [5,3] [4,2]. Filtering: [5,4]. Exposure: [7,6] [6,7] [1,7] connector. Diplomacy: [1,2] [1,3] tension. Consensus: [4,4] cadence [3,3] pivot. Charisma: [9,1] cadence. HN-NC is [2] diplomatic. Analita: CN/NC. Philia: ND/DN. Victoria: DC/CD. Storge: DH/HD. Agape: NH/HN. Eros: CH/HC.
+
+<h2>Examples</h2>
+
 1. DC (Deluge): Just because that’s how I look doesn’t mean I have to react in the same way. Not all [country] people react to the same things similarly.
 2. CD (Belittle): Say that to my step mother in Rome. She would spank you with pasta {harmless}. 
 3. HC (Martyr): Oh, now I have to carry the weight of representing a whole country? That’s heavy!
