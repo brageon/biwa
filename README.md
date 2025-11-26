@@ -1,6 +1,6 @@
 # Beneficial Impact
 
-BIWA is a local context-dependent intent mapping (LCIM) for ethical and predictive decision modeling using **ontological nodes**. Built for institutional designers and system architects. Monte-Carlo simulation decides the ranking hierarchy.
+BIWA is a local context-dependent intent mapping (LCIM) for ethical and predictive decision modeling using **ontological nodes**. Built for institutional designers. Monte-Carlo simulation decides the ranking hierarchy.
 
 HD-DH-CD-ND-DC-DN-HN 46 love tropes. Berkano with others but Gebo with the main character. Minus DN in both as 5-3. 
 
