@@ -1,6 +1,10 @@
 # Beneficial Impact
 
-BIWA is a local context-dependent intent mapping (LCIM) for ethical and predictive decision modeling using **ontological nodes**. Built for scientists, strategists, system architects, and institutional designers.
+BIWA is a local context-dependent intent mapping (LCIM) for ethical and predictive decision modeling using **ontological nodes**. Built for institutional designers and system architects. Monte-Carlo simulation decides the ranking hierarchy.
+
+HD-DH-CD-ND-DC-DN-HN 46 love tropes. Berkano with others but Gebo with the main character. Minus DN in both as 5-3. 
+
+CD-HD-HN-HC-DH-CN-NC-HC-CN-CH-HN-DN 81 bachata. 81 % 24 = Othala, minus DN is 4.
 
 <h2>Setup</h2>
 
@@ -14,9 +18,11 @@ python3 oanc/king.py | sort -k2 -nr
 
 JavaScript: [ Asynch simple. (CD, ND, NH) time, help. ] Java: [ Asynch complex. (DC, HN, DN) praise, time. ] Python: [ Synch complex. (HC, NC, DH) gift, touch. ] C++: [ Synch simple. (CH, CN, HD) touch, help. ] LCIM: What comes after the gift (e.g. HD) decides the intention (DH mirror). 
 
-Pragma: CN/NC. Philia: ND/DN. Ludus: DC/CD. Storge: DH/HD. Agape: NH/HN. Eros: CH/HC. Hookup: A[6,7], C[4,4], S[1,7]. Tough Love: [5,3] [4,2]. Filtering: [5,4]. Exposure: [7,6] [6,7] [1,7]. Diplomacy: [1,2] [1,3] tension. Consensus: [4,4] cadence [3,3] pivot. Charisma: [9,1] cadence. 
+Agape: NH/HN. Pragma: CN/NC. Ludus: DC/CD. Eros: CH/HC. Storge: DH/HD. Philia: ND/DN. Hookup: A[6,7], C[4,4], S[1,7]. Tough Love: [5,3] [4,2]. Filtering: [5,4]. Exposure: [7,6] [6,7] [1,7]. Diplomacy: [1,2] [1,3] tension. Consensus: [4,4] cadence [3,3] pivot. Charisma: [9,1] cadence. 
 
-<h2>Examples</h2>
+<h2>Examples</h2> 
+
+Philia [1,3] and Ludus [2,4] are two types of benefits. Pure knowledge: NC-HC-DH-ND-HC 1-0. 146 samples per number. 
 
 1. DC (Deluge): Just because that’s how I look doesn’t mean I have to react in the same way. Not all [country] people react to the same things similarly.
 2. CD (Belittle): Say that to my step mother in Rome. She would spank you with pasta {harmless}. 
