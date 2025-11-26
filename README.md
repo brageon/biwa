@@ -2,9 +2,7 @@
 
 BIWA is a local context-dependent intent mapping (LCIM) for ethical and predictive decision modeling using **ontological nodes**. Built for institutional designers. Monte-Carlo simulation decides the ranking hierarchy.
 
-HD-DH-CD-ND-DC-DN-HN 46 love tropes. Berkano with others but Gebo with the main character. Minus DN in both as 5-3. 
-
-CD-HD-HN-HC-DH-CN-NC-HC-CN-CH-HN-DN 81 bachata. 81 % 24 = Othala, minus DN is 4.
+CD-HD-HN-HC-DH-CN-NC-HC-CN-CH-HN-DN 81 bachata. 81 % 24 = Othala, minus DN is 4. HD-DH-CD-ND-DC-DN-HN 46 love tropes. Berkano with others but Gebo with the main character. Minus DN in both as 5-3. 
 
 <h2>Setup</h2>
 
